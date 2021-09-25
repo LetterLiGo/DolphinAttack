@@ -57,8 +57,7 @@ We have informed the above manufacturers and are collaborating with them on the 
 * **新华社** [苹果、三星都中招——“海豚音攻击”究竟是何方神器？](http://www.xinhuanet.com/fortune/2017-10/31/c_1121881819.htm)
 * **浙江大学** [对不起，你的手机被“无声”操控了](http://www.zju.edu.cn/2017/0911/c578a637706/page.htm)
 
-
-# DolphinAttack Dataset
+<!-- # DolphinAttack Dataset
 **Manifest of the "DolphinAttack Dataset".**
 [DolphinAttack Dataset Download Link](https://drive.google.com/file/d/1RgXlq4UuU2QKYHqwOcDaMESR-Z_2Rzmq/view?usp=sharing)
 
@@ -91,8 +90,7 @@ c) There are several repeat commands, never mind.
 - 10cm | 30cm | 60cm | 100cm | 150cm | 200cm | 300cm
 
 **5 speakers**
-- p01 | p02 | p03 | p04 | p05 
-
+- p01 | p02 | p03 | p04 | p05  -->
 # Contact
 * Prof. Wenyuan Xu (<wyxu@zju.edu.cn>)
 * Prof. Xiaoyu Ji (<xji@zju.edu.cn>)
